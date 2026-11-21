@@ -8,13 +8,13 @@ A powerful analytics platform for small and medium-sized businesses and online r
 
 ---
 
-## 🌐 Live Demo & Getting Started
+## Live Demo & Getting Started
 
 Want to explore how Smart Business Analytics works? Visit the live application:
 
 **[Open Smart Business Analytics](https://smart-business-analytics-delta.vercel.app)**
 
-### 🔐 Accessing the Application
+### Accessing the Application
 
 Users must log in or create a new account to access the platform.
 
@@ -29,7 +29,7 @@ For visitors who want to explore the application's features, a pre-configured de
 
 > **Note:** These credentials are provided for demonstration purposes only. Please avoid changing account settings or deleting existing demo data.
 
-### 🚀 Steps to Explore the Website
+### Steps to Explore the Website
 
 1. Open the live application.
 2. Navigate to the Login page.
@@ -38,17 +38,16 @@ For visitors who want to explore the application's features, a pre-configured de
 5. Navigate through the available sections to explore sales analytics, profitability, customer insights, inventory and demand forecasting.
 6. Try the Business Assistant to explore business-related insights.
 
-### ⏳ Important Loading Notice
+### Important Loading Notice
 
 The application may take a little time to load initially. Dashboard values, charts, analytics and machine learning results are retrieved and processed from the backend.
 
 Please allow a few moments for the data to load completely before navigating to another section or refreshing the page.
 
----
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The main objectives of Smart Business Analytics are:
 
@@ -62,7 +61,7 @@ The main objectives of Smart Business Analytics are:
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 Smart Business Analytics provides a range of tools to help businesses manage, analyse and understand their operations.
 
@@ -86,7 +85,7 @@ Smart Business Analytics provides a range of tools to help businesses manage, an
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 The application is developed using modern web technologies, backend frameworks and machine learning libraries.
 
@@ -115,7 +114,7 @@ The application is developed using modern web technologies, backend frameworks a
 
 ---
 
-## 🧠 Machine Learning & Analytics
+## Machine Learning & Analytics
 
 Smart Business Analytics integrates machine learning algorithms and data analysis techniques to transform historical business data into meaningful insights.
 
@@ -138,7 +137,7 @@ These techniques help businesses gain deeper insights into sales patterns, custo
 
 ---
 
-## 📸 Application Screenshots
+## Application Screenshots
 
 Explore the interface and key functionalities of Smart Business Analytics through the screenshots below.
 
@@ -166,4 +165,45 @@ Explore the interface and key functionalities of Smart Business Analytics throug
 ![Manual Billing](screenshots/manual-billing.png)
 
 ---
+
+## Deployment
+
+Smart Business Analytics is deployed using Vercel, with Turso providing the production database.
+
+The application is hosted online and can be accessed through the live demo provided above.
+
+## Project Scope & Limitations
+
+- The accuracy of business insights depends on the quality and availability of input data.
+- Machine learning predictions are estimates and may differ from actual business outcomes.
+- Certain analytical features require sufficient historical transaction data.
+- Initial loading of dashboard values, charts and analytical results may take some time.
+
+## Future Enhancements
+
+- Expansion of business-specific analytics and features for different business categories.
+- Improvements in demand forecasting techniques.
+- Enhanced customer behaviour analysis.
+- Additional business performance indicators and reporting options.
+- Further improvements to application performance and user experience.
+
+## Project Information
+
+| Detail | Information |
+|---|---|
+| Project Name | Smart Business Analytics |
+| Project Type | Final Year Academic Project |
+| Degree | B.Sc. Data Science |
+| Domain | Data Analytics & Machine Learning |
+
+---
+
+## Conclusion
+
+Smart Business Analytics demonstrates how data analytics and machine learning can transform everyday business transactions into meaningful insights, helping small and medium-sized businesses make more informed decisions.
+
+---
+
+**Built to help businesses turn everyday transactions into meaningful insights.**
+
 
