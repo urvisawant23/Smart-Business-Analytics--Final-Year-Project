@@ -143,7 +143,9 @@ These techniques help businesses gain deeper insights into sales patterns, custo
 Explore the interface and key functionalities of Smart Business Analytics through the screenshots below.
 
 ### 1. Business Dashboard
-![Business Dashboard](screenshots/dashboard.png)
+![Business Dashboard_1](screenshots/dashboard_1.png)
+![Business Dashboard_2](screenshots/dashboard_2.png)
+
 
 ### 2. Sales Analytics
 ![Sales Analytics](screenshots/sales-analytics.png)
